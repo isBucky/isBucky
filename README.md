@@ -1,7 +1,5 @@
 # 👋 'Olá, eu me chamo bucky.
 
-#
-
 <div>
   <a href="https://github.com/B4CKY0FC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B4CKY0FC&show_icons=true&title_color=00FFFF&text_color=FFFAFA&bg_color=363636&include_all_commits=true&count_private=true"/>
