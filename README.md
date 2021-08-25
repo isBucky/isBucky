@@ -1,8 +1,6 @@
-<div>
-  <img src="https://discord.com/widget?id=740058302096080938&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts" />
-</div>
-
 # 👋 'Olá, eu me chamo bucky.
+
+#
 
 <div>
   <a href="https://github.com/B4CKY0FC">
