@@ -1,6 +1,6 @@
 ## 👋 'Olá, eu me chamo bucky.
 <p align=center>
-  <img height="80px" src="https://discord.c99.nl/widget/theme-4/736686768916660315.png" />
+  <img height="80px" src="https://discord.c99.nl/widget/theme-2/736686768916660315.png" />
 </p>
 <div>
   <a href="https://github.com/B4CKY0FC">
