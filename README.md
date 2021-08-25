@@ -8,9 +8,11 @@
 
 #
 
-<div align=center>
+<p align="center">
   <img height="80px" src="https://discord.c99.nl/widget/theme-2/736686768916660315.png" />
+</p>
+<p align="center">
 <iframe src="https://discord.com/widget?id=740058302096080938&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-</div>
+</p>
 
 ![](https://github.com/B4CKY0FC/snk/raw/output/github-contribution-grid-snake.svg)
