@@ -11,8 +11,8 @@
 <p align="center">
   <img height="80px" src="https://discord.c99.nl/widget/theme-2/736686768916660315.png" />
 </p>
-<p align="center">
-<img src="https://discord.com/widget?id=740058302096080938&theme=dark" />
-</p>
+<div>
+  <img src="https://discord.com/widget?id=740058302096080938&theme=dark" />
+</div>
 
 ![](https://github.com/B4CKY0FC/snk/raw/output/github-contribution-grid-snake.svg)
