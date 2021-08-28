@@ -14,14 +14,14 @@
   ##
  
 <div align="center"> 
-  <a href="https://discord.gg/rXw8EZ2j3w" target="_blank">
-    <img alt="Perfil discord" src="https://discord.c99.nl/widget/theme-2/736686768916660315.png" target="_blank"/>
+  <a href="https://discord.gg/rXw8EZ2j3w">
+    <img alt="Perfil discord" src="https://discord.c99.nl/widget/theme-2/736686768916660315.png"/>
   <a>
-  <a href="https://www.instagram.com/bucky_ofc/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <a href="https://www.instagram.com/bucky_ofc/">
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://discord.gg/rXw8EZ2j3w" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  <a href="https://discord.gg/rXw8EZ2j3w">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
  
   ![Animação da cobrinha](https://github.com/B4CKY0FC/snk/raw/output/github-contribution-grid-snake.svg)
