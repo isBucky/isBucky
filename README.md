@@ -21,7 +21,7 @@
     <a href="https://www.instagram.com/bucky_ofc/">
       <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" >
     </a>
-    <a href="https://discord.gg/rXw8EZ2j3w">
+    <a href="https://discord.com/users/736686768916660315">
       <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
     </a>
   </div>
