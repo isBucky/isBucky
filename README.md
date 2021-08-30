@@ -1,5 +1,8 @@
 <div align="center">
   <h1>👀 Discord & Redes sociais</h1>
+  <a href="https://discord.com/users/736686768916660315">
+    <img alt="Perfil discord" src="https://discord.c99.nl/widget/theme-2/736686768916660315.png" />
+  <a>
   <div>
     <a href="https://www.instagram.com/bucky_ofc/">
       <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -8,12 +11,6 @@
       <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
   </div>
-  <a href="https://discord.com/users/736686768916660315">
-    <img alt="Perfil discord" src="https://discord.c99.nl/widget/theme-2/736686768916660315.png" />
-  <a>
-  <a href="https://discord.gg/rXw8EZ2j3w">
-    <iframe align="center" src="https://discord.com/widget?id=740058302096080938&theme=dark" width="500" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-  </a>
 </div>
 <div align="center">
   <h1>📦 Tecnologias</h1>
@@ -29,7 +26,7 @@
   </div>
 </div>
 <div align="center">
-  <h1>🧰GitHub Stats && Contribuições</h1>
+  <h1>🧰 GitHub Stats && Contribuições</h1>
   <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B4CKY0FC&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   </div>
