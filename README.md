@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>👀 Discord & Redes sociais</h1>
   <a href="https://discord.com/users/736686768916660315">
     <img alt="Perfil discord" src="https://discord.c99.nl/widget/theme-2/736686768916660315.png" />
@@ -12,7 +12,7 @@
     </a>
   </div>
 </div>
-<div align="center">
+<div>
   <h1>📦 Tecnologias</h1>
   <div>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -25,7 +25,7 @@
     <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" />
   </div>
 </div>
-<div align="center">
+<div>
   <h1>🧰 GitHub Stats && Contribuições</h1>
   <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B4CKY0FC&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -33,7 +33,7 @@
   <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4CKY0FC&layout=compact&langs_count=7&theme=github_dark"/>
   </div>
-  <div align="center"> 
+  <div> 
     <img alt="Animação" src="https://github.com/B4CKY0FC/snk/raw/output/github-contribution-grid-snake.svg">
   </div>
 </div>
