@@ -1,15 +1,15 @@
 <div>
   <h1>👀 Discord & Redes sociais</h1>
   <div align="center">
-    <a href="https://discord.com/users/736686768916660315">
-      <img alt="Perfil discord" src="https://discord.c99.nl/widget/theme-2/736686768916660315.png" />
+    <a href="https://discord.com/users/328020435382042636">
+      <img alt="Perfil discord" src="https://discord.c99.nl/widget/theme-2/328020435382042636.png" />
     </a>
   </div>
   <div align="center">
     <a href="https://www.instagram.com/bucky_ofc/">
       <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="https://discord.com/users/736686768916660315">
+    <a href="https://discord.com/users/328020435382042636">
       <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
   </div>
