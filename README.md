@@ -1,5 +1,7 @@
-<div>
-  <h1>👀 Discord & Redes sociais</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!;Meu+nome+é+bucky!;E+bem-vindo+ao+meu+perfil!&center=true&size=27">
+  <br>
+  <h1> Discord & Redes sociais: </h1>
   <div align="center">
     <a href="https://discord.com/users/328020435382042636">
       <img alt="Perfil discord" src="https://discord.c99.nl/widget/theme-2/328020435382042636.png" />
@@ -14,8 +16,8 @@
     </a>
   </div>
 </div>
-<div>
-  <h1>📦 Tecnologias</h1>
+<div align="center">
+  <h1> Tecnologias: </h1>
   <div align="center">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -27,14 +29,20 @@
     <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" />
   </div>
 </div>
-<div>
-  <h1>🧰 GitHub Stats & Contribuições</h1>
+<div align="center">
+  <h1> GitHub Stats: </h1>
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B4CKY0FC&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   </div>
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4CKY0FC&layout=compact&langs_count=7&theme=github_dark"/>
   </div>
+  <h1> Contribuições: </h1>
+  <div>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=B4CKY0FC&theme=react&background=0d1117&border=666">
+    <br>
+    <img src="https://activity-graph.herokuapp.com/graph?username=B4CKY0FC&theme=react-dark&hide_border=true">
+  </div> 
   <div align="center"> 
     <img alt="Animação" src="https://github.com/B4CKY0FC/snk/raw/output/github-contribution-grid-snake.svg">
   </div>
