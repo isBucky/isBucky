@@ -32,10 +32,10 @@
 <div align="center">
   <h1> GitHub Stats: </h1>
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B4CKY0FC&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=B4CKY0FC&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" height="165"/>
   </div>
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4CKY0FC&layout=compact&langs_count=7&theme=github_dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4CKY0FC&layout=compact&langs_count=7&theme=github_dark" height="165"/>
   </div>
   <h1> Contribuições: </h1>
   <div>
