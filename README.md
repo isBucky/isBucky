@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!;Meu+nome+é+bucky!;E+bem-vindo+ao+meu+perfil!&center=true&size=27">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!;Meu+nome+é+bucky!;Bem-vindo+ao+meu+perfil!;&center=true&size=27">
   <br>
   <h1> Discord & Redes sociais: </h1>
   <div align="center">
