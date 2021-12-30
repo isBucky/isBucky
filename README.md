@@ -9,7 +9,7 @@
     </a>
   </div>
   <div align="center">
-    <a href="https://www.instagram.com/bucky_ofc/">
+    <a href="https://www.instagram.com/bucky.br/">
       <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     <a href="https://discord.com/users/328020435382042636">
