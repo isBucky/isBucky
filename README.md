@@ -33,18 +33,18 @@
 <div>
   <h1>🧰 'GitHub Stats: </h1>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=B4CKY0FC&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=isBucky&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" height="165"/>
   </div>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4CKY0FC&layout=compact&langs_count=7&theme=github_dark" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isBucky&layout=compact&langs_count=7&theme=github_dark" height="165"/>
   </div>
   <h1>📊 'Contribuições: </h1>
   <div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=B4CKY0FC&theme=react&background=0d1117&border=666">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=isBucky&theme=react&background=0d1117&border=666">
     <br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=B4CKY0FC&theme=react-dark&hide_border=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=isBucky&theme=react-dark&hide_border=true">
   </div> 
   <div align="center"> 
-    <img alt="Animação" src="https://github.com/B4CKY0FC/snk/raw/output/github-contribution-grid-snake.svg">
+    <img alt="Animação" src="https://github.com/isBucky/snk/raw/output/github-contribution-grid-snake.svg">
   </div>
 </div>
