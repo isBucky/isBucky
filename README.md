@@ -3,15 +3,15 @@
 </div>
 
 # Hey! 🖖, new here?
-<img align="right" src="/assets/sultan-alrefaei-programmer.gif">
-Hello, my name is Matheus, but I prefer to be called by my nickname (Bucky).
+<img align="right" src="/assets/pixel-game.gif">
+**Hello, my name is Matheus, but I prefer to be called by my nickname (Bucky).**
 
-I am 17 years old, I live in Rio Grande do Sul, Brazil 🇧🇷.
+**I am 17 years old, I live in Rio Grande do Sul, Brazil 🇧🇷.**
 
-I've been a programmer for over 2 years, I program on my cell phone, that's what you read, on my cell phone, as depressing as this is, I can do a lot of interesting projects.
+**I've been a programmer for over 2 years, I program on my cell phone, that's what you read, on my cell phone, as depressing as this is, I can do a lot of interesting projects.**
 
-- 📌 Store founder [Inc. 00K](https://github.com/Inc-00K)
-- 👥 Member of the team [Darkstore](https://github.com/Darkstore-Community)
+- 📌 **Store founder** [Inc. 00K](https://github.com/Inc-00K)
+- 👥 **Member of the team** [Darkstore](https://github.com/Darkstore-Community)
 
 
 **My social networks:**
