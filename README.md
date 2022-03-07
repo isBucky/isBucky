@@ -3,14 +3,14 @@
 </div>
 
 # Hey! 🖖, new here?
-Olá, meu nome verdadeiro é Matheus, mas prefiro ser chamado pelo meu apelido (Bucky).
+Hello, my real name is Matheus, but I prefer to be called by my nickname (Bucky).
 
-Tenho 17 anos, moro no Rio Grande do Sul, Brasil.
+I am 17 years old, I live in Rio Grande do Sul, Brazil.
 
-Sou programador a mais de 2 anos, eu programo pelo celular, isso mesmo que você leu, pelo celular, por mais que isso seja meio deprimente, eu consigo fazer bastantes projetos interessantes.
+I've been a programmer for over 2 years, I program on my cell phone, that's what you read, on my cell phone, as depressing as this is, I can do a lot of interesting projects.
 
-- 📌 Fundador da loja [Inc. 00K](https://github.com/Inc-00K)
-- 👥 Membro da equipe [Darkstore](https://github.com/Darkstore-Community)
+- 📌 Store founder [Inc. 00K](https://github.com/Inc-00K)
+- 👥 Member of the team [Darkstore](https://github.com/Darkstore-Community)
 
 <!--
 
