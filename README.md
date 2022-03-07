@@ -49,6 +49,8 @@
   <img alt="" src="https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white"/>
 </div>
 
+--
+
 # Contributions 🖥️
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=isBucky&theme=react&background=0d1117&border=666">
