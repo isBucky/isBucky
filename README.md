@@ -1,8 +1,21 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!;Meu+nome+é+bucky!;Bem-vindo+ao+meu+perfil!;&center=true&size=27">
 </div>
+
+# Hey! 🖖, new here?
+Olá, meu nome verdadeiro é Matheus, mas prefiro ser chamado pelo meu apelido (Bucky).
+
+Tenho 17 anos, moro no Rio Grande do Sul, Brasil.
+
+Sou programador a mais de 2 anos, eu programo pelo celular, isso mesmo que você leu, pelo celular, por mais que isso seja meio deprimente, eu consigo fazer bastantes projetos interessantes.
+
+- 📌 Fundador da loja [Inc. 00K](https://github.com/Inc-00K)
+- 👥 Membro da equipe [Darkstore](https://github.com/Darkstore-Community)
+
+<!--
+
 <div>
-  <h1>🥶 'Discord & Redes sociais: </h1>
+  <h1>Redes sociais: </h1>
   <div align="center">
     <a href="https://discord.com/users/328020435382042636">
       <img alt="Perfil discord" src="https://discord.c99.nl/widget/theme-2/328020435382042636.png" />
@@ -18,7 +31,7 @@
   </div>
 </div>
 <div>
-  <h1>👨‍💻 'Tecnologias: </h1>
+  <h1>Tecnologias: </h1>
   <div align="center">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -47,4 +60,4 @@
   <div align="center"> 
     <img alt="Animação" src="https://github.com/isBucky/snk/raw/output/github-contribution-grid-snake.svg">
   </div>
-</div>
+</div> --
