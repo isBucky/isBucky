@@ -5,7 +5,7 @@
 # Hey! 🖖, new here?
 Hello, my real name is Matheus, but I prefer to be called by my nickname (Bucky).
 
-I am 17 years old, I live in Rio Grande do Sul, Brazil.
+I am 17 years old, I live in Rio Grande do Sul, Brazil 🇧🇷.
 
 I've been a programmer for over 2 years, I program on my cell phone, that's what you read, on my cell phone, as depressing as this is, I can do a lot of interesting projects.
 
