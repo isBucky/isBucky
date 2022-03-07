@@ -3,7 +3,7 @@
 </div>
 
 # Hey! 🖖, new here?
-Hello, my real name is Matheus, but I prefer to be called by my nickname (Bucky).
+Hello, my name is Matheus, but I prefer to be called by my nickname (Bucky).
 
 I am 17 years old, I live in Rio Grande do Sul, Brazil 🇧🇷.
 
