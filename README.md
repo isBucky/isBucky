@@ -14,6 +14,7 @@
 - 📌 **Store founder** [**Inc. 00K**](https://github.com/Inc-00K)
 - 👥 **Member of the team** [**Darkstore**](https://github.com/Darkstore-Community)
 
+<br/>
 
 **📡 My social networks:**
 <div>
@@ -27,12 +28,10 @@
   <img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </div>
-<br />
-<br />
-<br />
-aaaa
-<!--
-# My skills 🎯
+
+<br/>
+
+**🎯 My skills:**
 <div>
   <img alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -52,7 +51,7 @@ aaaa
   <img alt="" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img alt="" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img alt="" src="https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white"/>
-</div>-->
+</div>
 
 # Contributions 🖥️
 <div align="center">
