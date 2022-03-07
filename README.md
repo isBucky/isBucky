@@ -15,7 +15,7 @@
 - 👥 **Member of the team** [**Darkstore**](https://github.com/Darkstore-Community)
 
 
-**My social networks:**
+**📡 My social networks:**
 <div>
   <a href="https://www.instagram.com/bucky.br/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
