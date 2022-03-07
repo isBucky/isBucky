@@ -12,6 +12,8 @@ I've been a programmer for over 2 years, I program on my cell phone, that's what
 - 📌 Store founder [Inc. 00K](https://github.com/Inc-00K)
 - 👥 Member of the team [Darkstore](https://github.com/Darkstore-Community)
 
+
+---
 <!--
 
 <div>
