@@ -12,7 +12,8 @@ I've been a programmer for over 2 years, I program on my cell phone, that's what
 - 📌 Store founder [Inc. 00K](https://github.com/Inc-00K)
 - 👥 Member of the team [Darkstore](https://github.com/Darkstore-Community)
 
-- **My social networks:**
+
+**My social networks:**
 
 <a href="https://www.instagram.com/bucky.br/">
   <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
