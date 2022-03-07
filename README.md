@@ -11,8 +11,8 @@
 
 **I've been a programmer for over 2 years, I program on my cell phone, that's what you read, on my cell phone, as depressing as this is, I can do a lot of interesting projects.**
 
-- 📌 **Store founder** [Inc. 00K](https://github.com/Inc-00K)
-- 👥 **Member of the team** [Darkstore](https://github.com/Darkstore-Community)
+- 📌 **Store founder** [**Inc. 00K**](https://github.com/Inc-00K)
+- 👥 **Member of the team** [**Darkstore**](https://github.com/Darkstore-Community)
 
 
 **My social networks:**
