@@ -5,7 +5,7 @@
 # Hey! 🖖 New here?
 <img align="right" src="/assets/pixel-game.gif" width="250"/>
 
-**Hello! My name is Matheus, but I go by my nickname — Bucky.**  
+**My name is Matheus, but I go by my nickname — Bucky.**  
 **I'm 20 years old and I live in Rio Grande do Sul, Brazil 🇧🇷.**
 
 I started programming on my cell phone, literally. Back then, I created simple bots for Discord using nothing but mobile tools. As time went on, those simple bots evolved into more complex systems — all coded entirely on my phone. It was a challenge, but it taught me creativity, patience, and how to optimize code under tight constraints.
