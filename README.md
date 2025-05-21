@@ -2,34 +2,19 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!;My+name+is+Bucky!;Welcome+to+my+profile!;&center=true&size=27">
 </div>
 
-# Hey! 🖖, new here?
-<img align="right" src="/assets/pixel-game.gif">
+# Hey! 🖖 New here?
+<img align="right" src="/assets/pixel-game.gif" width="250"/>
 
-**Hello, my name is Matheus, but I prefer to be called by my nickname (Bucky).**
+**Hello! My name is Matheus, but I go by my nickname — Bucky.**  
+**I'm 20 years old and I live in Rio Grande do Sul, Brazil 🇧🇷.**
 
-**I am 17 years old, I live in Rio Grande do Sul, Brazil 🇧🇷.**
+I started programming on my cell phone, literally. Back then, I created simple bots for Discord using nothing but mobile tools. As time went on, those simple bots evolved into more complex systems — all coded entirely on my phone. It was a challenge, but it taught me creativity, patience, and how to optimize code under tight constraints.
 
-**I've been a programmer for over 2 years, I program on my cell phone, that's what you read, on my cell phone, as depressing as this is, I can do a lot of interesting projects.**
+Later on, when I got my first computer, a new world opened up. I began building large-scale APIs, full-featured e-commerce platforms, virtual store systems, and integrated payment solutions. With every project, I pushed the boundaries of what I could build — from back-end logic to database design and front-end integration.
 
-- 📌 **Store founder** [**@00K**](https://github.com/Inc-00K)
-- 🤓 **CTO of the** [**@Darkstore**](https://github.com/Darkstore-Community)
+Now, with more than 4 years of experience, I’m passionate about building robust, scalable solutions and constantly learning new technologies.
 
-<br/>
-
-**📡 My social networks:**
-<div>
-  <a href="https://www.instagram.com/bucky.br/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users/328020435382042636">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/itsRealBucky">
-    <img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</div>
-
-<br/>
+---
 
 **🎯 My skills:**
 <div>
@@ -43,22 +28,10 @@
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
 </div>
-<div>
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img alt="Glitch" src="https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white"/>
-</div>
 
 ---
 
 # Contributions 🖥️
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=isBucky&theme=react&background=0d1117&border=666">
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=isBucky&theme=react-dark&hide_border=true">
-</div> 
 <div align="center"> 
   <img alt="Animação" src="https://github.com/isBucky/snk/raw/output/github-contribution-grid-snake.svg">
 </div>
-
----
