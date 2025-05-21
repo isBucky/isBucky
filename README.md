@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!;My+name+is+Bucky!;Welcome+to+my+profile!;&center=true&size=27">
-</div>
-
 # Hey! 🖖 New here?
 <img align="right" src="/assets/pixel-game.gif" width="250"/>
 
