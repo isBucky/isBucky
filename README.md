@@ -8,7 +8,7 @@ I started programming on my cell phone, literally. Back then, I created simple b
 
 Later on, when I got my first computer, a new world opened up. I began building large-scale APIs, full-featured e-commerce platforms, virtual store systems, and integrated payment solutions. With every project, I pushed the boundaries of what I could build — from back-end logic to database design and front-end integration.
 
-Now, with more than 4 years of experience, I’m passionate about building robust, scalable solutions and constantly learning new technologies.
+Now, with more than 5 years of experience, I’m passionate about building robust, scalable solutions and constantly learning new technologies.
 
 ---
 
